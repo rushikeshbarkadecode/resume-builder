@@ -1,1 +1,1 @@
-View live version - https://reactjs-resume-builder.vercel.app/about
+View live version - https://reactjs-resume-builder.vercel.app/
